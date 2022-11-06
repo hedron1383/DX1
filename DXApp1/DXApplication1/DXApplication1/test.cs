@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace DXApplication1
 {
-    internal class Class2
+    internal class test
     {
-        public Class2()
-        {
-            int x = 0;
-
-            
-        }
     }
 }
