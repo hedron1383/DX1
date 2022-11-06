@@ -8,5 +8,9 @@ namespace DXApplication1
 {
     internal class Class1
     {
+        public Class1()
+        {
+
+        }
     }
 }
