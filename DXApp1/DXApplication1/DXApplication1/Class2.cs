@@ -10,7 +10,7 @@ namespace DXApplication1
     {
         public Class2()
         {
-
+            int x = 0;
         }
     }
 }
